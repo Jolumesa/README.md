@@ -1,6 +1,4 @@
-Dear Hiring Manager,
-
-As a motivated web development student with real-world tech support experience and a passion for building user-facing applications, I believe I bring a unique blend of technical ability and people skills to your team.
+As a motivated web development student with real-world tech support experience and a passion for building user-facing applications, I believe I'd bring a unique blend of technical ability and people skills to your team.
 
 I’ve built and deployed a tasks management application using Angular, available at https://tasks-management-delta.vercel.app, and continue to grow my skills through courses like Angular Developer (Udemy). 
 My prior roles at Kaiser Permanente and Amazon allowed me to strengthen my communication, problem-solving, and teamwork skills that directly translate to a development environment.
