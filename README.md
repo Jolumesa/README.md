@@ -9,5 +9,6 @@ You are welcome to visit my portfolio: https://portfolio-jolumesas-projects.verc
 Thank you for your time and consideration.
 
 Best regards,
-Jorge Mena 
+Jorge Mena
+
 jmena9496@gmail.com | +506 89138777 | [LinkedIn](https://linkedin.com/in/jolumesa)
